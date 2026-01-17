@@ -1,0 +1,24 @@
+# Environments
+.venv/
+.agent/
+__pycache__/
+
+# OS & Editors
+Thumbs.db
+.vscode/
+*.log
+
+# Sensitive Data / Local Config
+*.env
+data/
+secrets/
+
+# Build Artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary Files
+temp/
+
+
