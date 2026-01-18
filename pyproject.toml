@@ -4,9 +4,9 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ckr_lang"
-version = "0.1.6"
+version = "0.1.7"
 authors = [
-  { name="Vibe Coding Team" },
+  { name="hannim" },
 ]
 description = "A Fan-made Python interpreter for the ChoiKangRok Esolang"
 readme = "README.md"
